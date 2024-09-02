@@ -1,2 +1,2 @@
-# Olabode Alao-
+# Olabode Alao
 C++, java
